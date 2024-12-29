@@ -6,4 +6,4 @@ class A
     end
 end
 
-A.new.print_me("hello world!")
+A.new.print_me("hello world! how r u?")
